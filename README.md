@@ -50,22 +50,22 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Vismaya2141&show_icons=true&theme=default&hide_border=false&title_color=2E8B57&icon_color=2E8B57" />
+      <img src="https://raw.githubusercontent.com/Vismaya2141/Vismaya2141/main/profile/stats.svg" />
     </td>
     <td>
-      <img src="https://streak-stats.demolab.com/?user=Vismaya2141&theme=default&hide_border=false&ring=2E8B57&fire=2E8B57&currStreakLabel=2E8B57" />
+      <img src="https://streak-stats.demolab.com/?user=Vismaya2141&hide_border=true&background=ffffff&ring=2E8B57&fire=2E8B57&currStreakLabel=2E8B57&currStreakNum=1c1c1c&sideNums=1c1c1c&sideLabels=1c1c1c&dates=1c1c1c" />
     </td>
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vismaya2141&theme=default&hide_border=false&layout=compact&title_color=2E8B57" />
+      <img src="https://raw.githubusercontent.com/Vismaya2141/Vismaya2141/main/profile/top-langs.svg" />
     </td>
   </tr>
 </table>
 
 ### 📈 Contribution Graph
 
-[![Vismaya's activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Vismaya2141&color=2E8B57&line=2E8B57&point=1c1c1c)](https://github.com/Vismaya2141)
+[![Vismaya's activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Vismaya2141&theme=default&bg_color=ffffff&color=2E8B57&line=2E8B57&point=1c1c1c&area=true&area_color=2E8B57&hide_border=true)](https://github.com/Vismaya2141)
 
 ---
 
