@@ -14,18 +14,15 @@
 
 ---
 
-### 🧑‍💻 About Me
+###  About Me
 
-- 🎓 Pursuing **Master of Computer Applications (MCA)** at Rajagiri College of Social Sciences
-- 🏆 BCA graduate from DC School of Management and Technology — GPA 8.1, **College Topper**
-- 💻 Building **full-stack web and Android applications** with Python, Django, React, and Java
-- 🔐 Focused on **role-based access systems** and clean relational database design
-- 🎨 Certified in **UI/UX Design (Figma)**, **Excel Expert**, and **Git & GitHub**
-- 🌱 Currently strengthening my **DevOps** fundamentals alongside application development
+- I build software the way I was taught to think about access: **who gets to touch what, and why** — the structure comes first, the UI comes after.
+- My focus is full-stack systems that hold up under real use: role-based logic, clean relational schemas, and workflows people can actually rely on.
+- Beyond the codebase, I finished my BCA as **college topper** (GPA 8.1) and lean on that same discipline — problem-solving, adaptability, and seeing things through — in everything I build now.
 
 ---
 
-### ⚡ Tech Stack
+###  Tech Stack
 
 **Languages**
 
@@ -45,7 +42,7 @@
 
 ---
 
-### 📊 GitHub Stats
+###  GitHub Stats
 
 <table>
   <tr>
@@ -63,17 +60,17 @@
   </tr>
 </table>
 
-### 📈 Contribution Graph
+###  Contribution Graph
 
 [![Vismaya's activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Vismaya2141&theme=default&bg_color=ffffff&color=2E8B57&line=2E8B57&point=1c1c1c&area=true&area_color=2E8B57&hide_border=true)](https://github.com/Vismaya2141)
 
 ---
 
-### 📌 Pinned Projects
+###  Pinned Projects
 
-- 🏢 [**Django_Project**](https://github.com/Vismaya2141/Django_Project) — HR Self-Service Portal with role-based access across employee/manager/admin, 15+ models
-- 📱 [**QLess_android_app**](https://github.com/Vismaya2141/QLess_android_app) — Android barcode-scanning app with live PHP/MySQL cart & pricing backend
-- ✈️ [**Travel_support_php_project**](https://github.com/Vismaya2141/Travel_support_php_project) — 3-tier travel agency booking & itinerary support platform
+-  [**Django_Project**](https://github.com/Vismaya2141/Django_Project) — HR Self-Service Portal with role-based access across employee/manager/admin, 15+ models
+-  [**QLess_android_app**](https://github.com/Vismaya2141/QLess_android_app) — Android barcode-scanning app with live PHP/MySQL cart & pricing backend
+-  [**Travel_support_php_project**](https://github.com/Vismaya2141/Travel_support_php_project) — 3-tier travel agency booking & itinerary support platform
 
 ---
 
